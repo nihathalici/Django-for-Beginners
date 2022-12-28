@@ -1,8 +1,7 @@
 #  Django for Beginners
 This is my repo following the book "Django for Beginners" by William S. Vincent.
 
-Synopsis taken from the book:
-„You don’t need previous Python or web development experience to complete this book. It is intentionally written so that even a total beginner can follow along and feel the magic of writing their own web applications from scratch.“
+"When readers interested in web development ask me what to read next after Python Crash Course, I refer them to Will's books: Django for Beginners, Django for APIs, and Django for Professionals. I highly recommend you check out his work." — ERIC MATTHES, author of Python Crash Course
 
 Links and Appendix
 ========================================================
