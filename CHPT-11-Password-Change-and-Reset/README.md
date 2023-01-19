@@ -1,4 +1,4 @@
-#  Django for Beginners | Bootstrap
+#  Django for Beginners | Password Change and Reset
 
 * Customizing Password Change
 * Password Reset
