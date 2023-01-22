@@ -1,4 +1,4 @@
-#  Django for Beginners | Comments/
+#  Django for Beginners | Comments
 
 * Model
 * Admin
